@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.9" pages="13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9" pages="13">
   <diagram name="usecase" id="nG_zr4PN2KGFrw7g9ydZ">
     <mxGraphModel dx="2560" dy="2375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -333,7 +333,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XJu1ssFClNkSPG0JZFaC" name="Act D. Login Admin">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2562" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -418,7 +418,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jLezlUDR0UZZFYpDLRgn" name="Seq D. Login Admin">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2135" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -528,7 +528,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="05drgsTm6vSKf0Ziakrn" name="Act D. Login Alumni">
-    <mxGraphModel dx="3203" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1281" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -613,7 +613,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vKSQ4FNtASQO2FqrnKrB" name="Seq D. Login Alumni">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2562" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -841,7 +841,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NKUcGJXrA7KZO2hnlIXz" name="Seq D. Aktivasi">
-    <mxGraphModel dx="661" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1068" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -914,7 +914,7 @@
         <mxCell id="zfPYOP-PEsPSlDDROR_F-20" parent="zfPYOP-PEsPSlDDROR_F-19" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="100" width="10" x="15" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="zfPYOP-PEsPSlDDROR_F-21" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;Alumni&lt;/font&gt;" vertex="1">
+        <mxCell id="zfPYOP-PEsPSlDDROR_F-21" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;Database&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="895.33" y="566" as="geometry" />
         </mxCell>
         <mxCell id="zfPYOP-PEsPSlDDROR_F-22" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=20;" value="data alumni valid?" vertex="1">
@@ -929,7 +929,7 @@
         <mxCell id="zfPYOP-PEsPSlDDROR_F-24" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;[Ya]&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="50" x="430.3299999999999" y="898.5" as="geometry" />
         </mxCell>
-        <mxCell id="zfPYOP-PEsPSlDDROR_F-25" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Tampilkan halaman home&lt;/span&gt;" vertex="1">
+        <mxCell id="zfPYOP-PEsPSlDDROR_F-25" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Tampilkan halaman profile Alumni&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="130" x="680.33" y="911" as="geometry" />
         </mxCell>
         <mxCell id="zfPYOP-PEsPSlDDROR_F-26" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;[Tidak]&lt;/font&gt;" vertex="1">
